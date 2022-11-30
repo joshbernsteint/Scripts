@@ -1,7 +1,6 @@
 # Scripts
 Scripts used for compiling/Assembling
 
-Current List of Scripts:
 
 Script 1:  Assembler
 
